@@ -86,7 +86,6 @@ Files are saved in `.pkt` format. To open, you need **Cisco Packet Tracer v8.x o
 ---
 
 ## Screenshots
-_[In progress](Знімок екрана 2025-06-21 215059.png)_
 
 ---
 
